@@ -1,0 +1,3 @@
+# jah/.gitignore
+
+kash/ # working media folder --- not suitable for git tracking
